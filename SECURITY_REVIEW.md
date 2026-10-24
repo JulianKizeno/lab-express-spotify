@@ -5,6 +5,7 @@ Repositorio: `JulianKizeno/lab-express-spotify`. Rama: `security/review-2026-10-
 ## Correcciones
 
 - Upgrade vulnerable nodemon development server to the maintained v3 release line
+- Remove unused vulnerable CDN JavaScript libraries; retain existing styles and application behavior
 
 ## Auditoría npm después de los cambios
 
